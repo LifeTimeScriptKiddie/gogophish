@@ -1,3 +1,5 @@
+Same as GoPhish. Tailored to environment. 
+
 ![gophish logo](https://raw.github.com/gophish/gophish/master/static/images/gophish_purple.png)
 
 Gophish
